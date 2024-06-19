@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    border: 1px solid rgb(130, 130, 157);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.stylebtn {
+    background-color: rgb(161, 117, 117);
+    border: 1px solid  rgb(35, 33, 33);
+    padding: 15px;
+    width: 150px;
+    color:  rgb(35, 33, 33);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.55556;
+    letter-spacing: 0.03em;
+}
